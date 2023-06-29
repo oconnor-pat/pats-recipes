@@ -1,0 +1,28 @@
+* {
+  background-color: #e6e3d3;
+  font-family: "Helvetica";
+}
+
+html {
+  text-align: center;
+}
+
+.main-page-title {
+  font-size: 50px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.subtitle {
+  font-size: 25px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
